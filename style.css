@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.başlık{
+    background-color: grey;
+    width: 70px;
+    padding: 0.5rem;
+    margin: 10px;
+    border: 1px solid black;
+    text-align: center;
+    color: white;
+    
+    
+}
+
+.baslik ul{
+    width: 80px;
+    padding: 1.1rem;
+    margin: 0.6rem;
+    margin-top: -0.7rem;
+    border: 1px solid black;
+    display: none;
+}
+
+
+.baslik:hover ul{
+    display: block;
+}
