@@ -1,2 +1,2 @@
 # animated_menu
-Menu assignment that closes when hovered with the mouse
+Menu assignment that opens when hovered with the mouse
